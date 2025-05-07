@@ -28,7 +28,10 @@ The dictionaries contain the following terms:
 1. SARS-CoV-2 synonyms (sars-cov-2_synonyms.txt)  (virus terms)
 2. COVID-19 synonyms  (covid-19_synonym.txt)      (disease terms)
 3. SARS-CoV-2 variant terms (variants.txt)        (variant terms)
+4. SARS-CoV-2 mutations (Sarscov2_mutation.txt)   (Mutation terms)
 
 
-For this version of manuscript (v3), we have updated (sars-cov-2_synonyms.txt) and saved as supplemental_file1_v3.txt, 
-covid-19_synonym.txt and have it as supplemental_file2_v3.txt and variants.txt as supplemental_file3_v3.txt.
+
+For this version of manuscript we have covid-19 synonyms with 89901 terms [covid-19](covid-19_synonyms_v3.txt), sars-cov-2 virus synonyms [sars-cov-2 virus](sars-cov-2_synonyms_v3.txt) with 807 entries, new variant dictionary with 2633758 entries [variant](variants_v2.txt) and  the most popular mutation terms with 113 entries [mutation](sarscov2_mutations_v1.txt).
+
+For creating silver standard of Cord-19 we have removed single-character entries, entries with two-characters that were common with English identifiers as (AS, BY, BE, AN,AT, and HE and the part of dictionary that were not tagged at all in the Cord-19. ) [modified variant dictionary](variants_v3.txt).  For a more accurate analysis, we have removed all single- and double-character entries as well as those were not tagged in Cord-19. [modified variant dictionary](variants_v4.txt).
