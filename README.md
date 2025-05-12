@@ -1,4 +1,13 @@
 
+## License
+
+- 🧠 **Dictionaries and data**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See `LICENSE-DATA`.
+- 🛠️ **Code**: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See `LICENSE`.
+
+Please credit the original CORD-19 dataset by the Allen Institute for AI, which is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
+
 
 This folder contains COVID-19-related dictionaries Collected from various sources and enhanced with added prefixes and suffixes. That can be used with the [EasyNER](https://github.com/Aitslab/EasyNER.git) pipeline.
 Please cite this article if you use dictionaries.
@@ -220,11 +229,4 @@ The supplementary files as well as previous versions of dictionaries are saved i
 
 
 
-
-## License
-
-- 🧠 **Dictionaries and data**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See `LICENSE-DATA`.
-- 🛠️ **Code**: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See `LICENSE`.
-
-Please credit the original CORD-19 dataset by the Allen Institute for AI, which is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
